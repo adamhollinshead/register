@@ -1,5 +1,6 @@
 {
   "domain": "adamhollinshead",
-  "type": "CNAME",
-  "value": "adamhollinshead.github.io"
+  "record": {
+    "CNAME": "adamhollinshead.github.io"
+  }
 }
