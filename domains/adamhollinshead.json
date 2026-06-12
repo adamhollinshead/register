@@ -1,5 +1,8 @@
 {
   "domain": "adamhollinshead",
+  "owner": {
+    "username": "adamhollinshead"
+  },
   "record": {
     "CNAME": "adamhollinshead.github.io"
   }
