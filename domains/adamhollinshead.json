@@ -1,9 +1,5 @@
 {
   "domain": "adamhollinshead",
-  "owner": {
-    "username": "adamhollinshead"
-  },
-  "record": {
-    "CNAME": "adamhollinshead.github.io"
-  }
+  "type": "CNAME",
+  "value": "adamhollinshead.github.io"
 }
