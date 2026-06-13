@@ -1,5 +1,8 @@
-{
-  "domain": "adamhollinshead",
-  "type": "CNAME",
-  "value": "adamhollinshead.github.io"
-}
+[
+  {
+    "subdomain": "adamhollinshead",
+    "url": "adamhollinshead.github.io",
+    "email": "adamhollinshead89@gmail.com",
+    "type": "CNAME"
+  }
+]
